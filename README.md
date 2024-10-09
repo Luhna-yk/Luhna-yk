@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Luhna-yk
+- 👀 I’m interested in exploring the world of IT...
+- 🌱 I’m currently learning html,css,javascript...
+- ⚡ Fun fact: i can't spell ...
+
+<!---
+Luhna-yk/Luhna-yk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
